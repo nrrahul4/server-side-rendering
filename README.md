@@ -6,10 +6,6 @@ This application is an example for server side rendering app. Here I have used R
 
 
 
-![Screenshot 2021-10-10 at 3.47.48 PM](/Users/rahulnr/Desktop/Screenshot 2021-10-10 at 3.47.48 PM.png)
-
-
-
 ## Available Scripts
 
 In the project directory, you can run:
